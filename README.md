@@ -1,4 +1,4 @@
-# Infopoint Face Recognition (InsightFace-Based)
+# Face Recognition (InsightFace-Based)
 
 A face recognition project built with **Python**, **InsightFace**, and **ONNX Runtime** for detecting and recognizing faces from images/video streams.
 
